@@ -6,4 +6,4 @@ Personal software projects with runnable examples, tests and documented experime
 - [ChipClaw](https://github.com/l422145205-source/chipclaw): evidence retrieval and ranking for technical manuals.
 - [VoxStage](https://github.com/l422145205-source/voxstage): timed dialogue generation with automated audio checks.
 
-Development uses AI assistance. Experimental results and limitations are documented in each repository.
+
